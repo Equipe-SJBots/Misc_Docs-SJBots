@@ -1,0 +1,233 @@
+Tipo de orçamento;Tipo de alguma coisa;Itens;Discriminação;Unidades;Quant;Vl unit;Vl total;Observações;Anexo;Status 
+Orçamento detalhado de Custeio;Serviços de Terceiros - PJ;1;Camisas sublimadas para a equipe;un;30;61,00;1830,00;Necessário para o fortalecimento da identidade visual e do sentimento de pertencimento da equipe;Sim;CANCELADO 
+Orçamento detalhado de Custeio;Serviços de Terceiros - PF;;;;0;0,00;0,00;;;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;28;Resina 3D Flexível;und;10;161,91;1619,10;Serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (prototipagem dos robos de combate );Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;34;3M, Abafador de Som e Ruído, 1 unidade - Vermelho;und;10;59,90;599,00;"Serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 ( EPI)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;69;"Aspirador de Pó Vertical e Portátil de Mão 2 em 1 WAP HIGH SPEED
+1000W 1,2 litros Filtro HEPA 127V";und;1;169,90;169,90;Utilizado para a manutenção da limpeza do ambiente de trabalho;Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;96;Balança digital de precisão 1g a 2kg;und;1;57,00;57,00;Utilizada para aferir o enquadramento nas categorias;Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;38;"Bastões de Cola Quente Branco (Supramelt 1101) - Grosso
+11,5mm x 30 cm (500gr)";und;10;45,99;459,90;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (para fixação estrutural);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;76;Borracha De Silicone Preta Rígida para Pneus Miniatura Com Catalisador (1,050 Kg);und;3;70,00;210,00;"Servirão para o alcance dos OE 1, 2 ,3, 4 e 6 (
+produção das rodas dos robôs de combate)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;56;"Broca De Passo Amoolo Titanium (15 Passos), 3/16 A 1-1/4 (1,25
+Polegada) Aço De Alta Velocidade (hss";und;1;176,00;176,00;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para contrução e acabamento dos robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;63;Cantoneira Zamak Aluminio 40x40;und;50;6,30;315,00;Serão utilizados para o alcance do OE 5( para a construção da arena de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;29;"Carregador de Pilhas Recarregáveis AA e AAA DURACELL
+Com 4 Pilhas AA";und;5;179,99;899,95;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (para recarregar as pilhas);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;16;Carregador Imax B6 80W + Fonte 12V 6A;und;5;299,99;1499,95;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (para recarregar as baterias);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;77;Cartão de Memória SanDisk Micro SD, 64Gb;und;3;59,90;179,70;"Auxiliarão no alcance dos OE 1, 2 ,3, 4, e 6 ( para
+armazenamento e envio de informações)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;55;Chapa Aluminio 20cm X 80cm X 1/4 (6,35mm);und;5;310,00;1550,00;Serão utilizados para o alcance do OE 5( para a construção da arena de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;61;Chapa de Policarbonato Elastobor Cristal 6MM X 1M X 2M;und;7;829,90;5809,30;Serão utilizados para o alcance do OE 5( para a construção da arena de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;97;"Chapa Pead Branco 20 mm X 300 mm X
+300 mm Para Cnc Router";und;15;115,80;1737,00;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( Estrutura definitiva dos robôs de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;65;"Conector Rápido 90° P/
+Perfis Base 30";und;150;18,00;2700,00;Serão utilizados para o alcance do OE 5( para a construção da arena de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;83;Desengripante Spray White Lub Super 300ml - ORBI- O3;und;3;11,00;33,00;Serão usados para o alcance dos OE 1, 2 ,3, 4, 5 e 6 ( para lubrificar os robôs e a arena);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;7;Dino V2 - Dual Motor ESC;und;20;99,00;1980,00;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (placa controladora dos motores);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;64;Dobradiça em Zamak 50x50mm - 30mm entre Centro;und;10;17,25;172,50;Serão utilizados para o alcance do OE 5( para a construção da arena de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;53;"Domary Peças da impressora 3D Bicos de liga de titânio 3pcs TC4 0,2/0,3/0,4/0,5
+mm Bico extrusor M6";und;1;69,99;69,99;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para impressão 3d com tritan);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;12;ESC 30A para Motor Brushless Aeromodelos;und;20;43,00;860,00;"Auxiliarão no alcance dos OE 1, 2 ,3, 4, e 6 ( para
+controle dos motores dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;58;Esquadro de Metal 90 graus 8 Pol - VONDEr;und;1;37,18;37,18;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para contrução e acabamento dos robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;94;"Estanho Em Fio, Com 500 G Vonder 1 Mm,
+40 X 60";und;2;132,05;264,10;"Serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (soldagem dos componentes eletrônicos)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;102;Estilete Trapezoidal Retrátil Standard;und;4;59,00;236,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (para correção de falhas e acabamento estrutural);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;104;Extensor Flexivel De 295 Mm Para Chave E Parafusadeira 1/4;und;2;30,00;60,00;Serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (auxiliar na parafusagem);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;51;Filamento PETG;kg;10;98,01;980,10;Serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (prototipagem dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;52;Filamento PLA Flex;kg;10;152,91;1529,10;Serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (prototipagem dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;47;Filamento TRITAN;kg;10;170,91;1709,10;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (prototipagem dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;14;"FingerTech
+´Viper´ Lifter Add-On";und;5;344,00;1720,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( para testes de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;72;Fita adesiva multiuso 45mmx5m silver tape Scotch 3M PT 1 UN;und;15;17,10;256,50;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (para correção de falhas estruturais);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;66;Fita crepe 18x50 101la / 6rl / 3m;und;15;5,20;78,00;"serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (para etiquetar)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;73;Fita Isolante 3M Imperial - 18 mm x 5 m;und;15;3,60;54,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (para isolamento das soldagens eletronicas);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;79;Fluxo de Solda Pastoso NC XP692 Seringa 10G - Cobix;und;1;55,91;55,91;"serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (soldagem dos componentes eletrônicos)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;24;Garra Robótica Croc v2;und;10;29,00;290,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( chassi para testes de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;23;Garra Robótica Crow v2;und;10;29,00;290,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( chassi para testes de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;99;Gaveteiro Organizador Ferramentas Parede Multiuso 28 Caixas;und;1;138,90;138,90;Servirá para a organização das estações de trabalho;Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;101;Grampeador manual corpo em alumínio capacidade de 6 a 14 mm;und;1;193,45;193,45;Serão utilizados para o alcance do OE 5( para a construção da arena de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;62;"Grampo de Marceneiro tipo C 3"" - METALSUL";und;8;36,11;288,88;serão usados para o alcance dos OE 1, 2 ,3, 4, 5 e 6 ( para fixação de peças para acabamento manual);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;44;Haste Telescópica GD2003 com Imã - GAUSS- FA000013;und;1;23,99;23,99;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para contrução e acabamento dos robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;25;Kit Advanced para Arduino;conjunto;10;389,90;3899,00;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (parte eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;26;Kit Big Jack para Arduino;conjunto;9;529,90;4769,10;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (parte eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;11;Kit Chassi 2WD (2 rodas) Robô para Arduino;conjunto;10;89,90;899,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( chassi para testes de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;10;Kit Chassi 4WD Robô para Arduino - Preto;conjunto;10;132,90;1329,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( chassi para testes de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;9;Kit Chassi Tanque com Esteira Lagarta;conjunto;10;161,40;1614,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( chassi para testes de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;95;Kit de Brocas e Pontas 212 Unidades - MAKITA-E- 06270;Conjunto;1;639,90;639,90;Alinhado com OE 1,2,3,4, 5 e 6 (para consumo geral, visando construção dos robôs e arena);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;41;Kit de Ferramentas para Notebook e Celular | 38 peças;conjunto;2;44,90;89,80;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para manutenção de componentes eletrônicos);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;70;"Kit Discovery com Raspberry Pi 3 +
+Acessórios";conjunto;3;799,00;2397,00;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (parte eletronica e monitoramento do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;15;"Kit FingerTech
+´Viper´ de combate de robô";conjunto;2;1170,00;2340,00;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( para testes de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;71;Kit Nodemcu Esp8266 Wifi Básico Iniciante Brinde e Manual;conjunto;3;287,90;863,70;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (parte eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;100;kit Pinça ESD de precisão Ferramenta profissional de manutenção de reparos industriais;conjunto;2;77,40;154,80;"Serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (manipulação de componentes eletrônicos)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;31;Kit Primeiros Socorros Completo;conjunto;1;299,99;299,99;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (primeiros cuidados no caso de ferimento);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;85;Kit Resistor 500;conjunto;2;35,00;70,00;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (para desenvolvimento de placas eletronicas);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;84;Kit Salva Chip 50g, Fluxo, Fio Solda, Malha Dessoldadora;und;5;102,87;514,35;"serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (soldagem dos componentes eletrônicos)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;86;Kit Tubo Termo Retrátil x328 Unidades 5 Cores;und;10;29,00;290,00;serão usados para o;Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;57;KKmoon Ferramenta automática de orifícios iniciais de marcação com punção de pino central automático;und;1;54,69;54,69;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (contrução e acabamento estrutural)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;33;KKmoon Luvas resistentes a cortes Luvas de trabalho resistentes a cortes Nível 5 de proteção resiste;und;10;64,78;647,80;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 ( EPI)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;81;Lipo Safe Bag;und;3;55,44;166,32;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (para segurança no armazenamento de baterias);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;50;Lixadeira de Bancada, Cinta 4x36, Disco 6, 375 W - Tander Profissional;und;1;366,28;366,28;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (contrução e acabamento estrutural)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;40;Lupa com Garras Suporte Ferro Solda com Luz Led a Pilha ou Fonte - Oksn;und;5;94,99;474,95;"serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (soldagem dos componentes eletrônicos)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;42;"Maleta de ferramentas kit com 129 peças
+13564 Sparta";und;2;107,91;215,82;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (contrução e acabamento estrutural)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;99;"Maleta Organizadora Plástica 17"" com Módulos Organizadores e Divisórias Móveis";und;3;98,80;296,40;Servirão para a organização das estações de trabalho;Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;35;"Máscara de Solda Titanium Auto Escurecimento Combat Tonalidade 11
+Fixa - 5496";und;2;141,80;283,60;"serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (soldagem dos componentes eletrônicos)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;18;Master Kit: Kit Iniciante V8 + Kit Avançado V4;conjunto;5;499,00;2495,00;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (parte eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;92;Microcontrolado r Atmel ATtiny85-20PU;und;4;21,90;87,60;serão usados para o alcance dos OE   2 ,3 e 6 ( Produção da placa eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;3;"Mini Motor N20 6v 30 RPM
+Caixa de Redução de Metal";und;20;39,99;799,80;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (locomoção dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;2;"Mini Motor N20 6v 3000 RPM
+com Caixa de Redução de Metal";und;20;36,99;739,80;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (locomoção dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;4;"Mini Motor N20 6v 500 RPM
+Caixa de Redução de Metal";und;20;39,99;799,80;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (locomoção dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;5;"Mini Roda boba
+/ Esfera giratória 12mm para Chassi de Carrinho / Robô";und;5;7,99;39,95;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (movimentação dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;48;Moniss Conjunto de ferramentas de rebarbação de metal Conjunto de cortadores de rebarba Removedor de;conjunto;1;64,09;64,09;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (contrução e acabamento estrutural)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;61;Morsa Torno de Bancada N°6 em Ferro Nodular MARCON;und;1;315,84;315,84;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (contrução e acabamento estrutural)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;21;"Motor 12V 8000RPM
+38mm";und;10;29,00;290,00;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (movimentação dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;20;"Motor 16.8V 18000RPM
+47mm";und;10;59,00;590,00;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (movimentação dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;22;Motor com Caixa de Redução 6V 320RPM;und;10;59,00;590,00;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (movimentação dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;8;"Motor Elétrico A2212 2200kv
+Brushless";und;20;54,00;1080,00;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (movimentação dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;32;Óculos de proteção ampla visão spider preto valeplast;und;10;39,90;399,00;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 ( EPI)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;87;"PARAFUSO ALLEN COM CABEÇA AÇO LIGA M10-1,50 X 100 / 50
+peças LIGA M10-1,50 X 100 / 50
+peças";conjunto;4;169,01;676,04;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( componente de fixação estrutural para os robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;89;Pasta para Soldar Cobix Pote 110g Plastico Solda;und;3;18,81;56,43;"serão usados para o alcance dos OE 1, 2 ,3, 4 e
+6 (soldagem dos componentes eletrônicos)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;67;Perfil Estrutural em Alumínio 40x40 Leve - Canal 8;metro;45;75,00;3375,00;Serão utilizados para o alcance do OE 5( para a construção da arena de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;103;Pigmento para Resina;und;10;27,00;270,00;Serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (prototipagem dos robos de combate );Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;30;"Pilha Recarregável AA Pequena DURACELL
+Com 4 Unidades";und;3;99,46;298,38;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (para o robo Lego e para os controles remotos);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;37;"Pistola de Cola Quente Profissional HPC-100 100W
+Bivolt - HIKARI- 21K911";und;5;79,90;399,50;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 (para fixação estrutural);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;105;PLACA DE ACRILICO TRANSPAREN TE 100CM X 50CM ESPESSURA 2MM, CHAPA DE ACRILICO CRISTAL, INCOLOR;und;5;96,62;483,10;;Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;90;Placa de Fenolite Virgem 10x15 cm;und;5;9,58;47,90;serão usados para o alcance dos OE   2 ,3 e 6 ( Produção da placa eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;80;Placa de Fibra de Carbono 500 x 390 mm | Lixado;und;5;430,00;2150,00;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (contrução das tampas dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;91;Placa Fenolite Perfurada 10x10cm;und;8;11,30;90,40;serão usados para o alcance dos OE   2 ,3 e 6 ( Produção da placa eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;93;Protoboard 830 Pontos;und;4;15,90;63,60;serão usados para o alcance dos OE   2 ,3 e 6 ( prototipagem da placa eletronica do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;19;Rádio Flysky Fs-i6 Fs I6 2.4g 6ch Com Receptor Fs- ia6b;und;5;529,99;2649,95;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para controlar remotamente os robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;43;Régua Aço Inox 60cm 24 Polegadas Desenho Projeto Starfer;und;2;34,46;68,92;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para contrução e acabamento dos robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;75;Regulador De Tensao - 7806- 06V;und;50;1,50;75,00;serão usados para o alcance dos OE   2 ,3 e 6 ( proteção dos componentes eletronicos do segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;74;Regulador de tensão L7805;und;50;1,67;83,50;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 ( implementação de receptores de tensão);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;1;Resina 3D Pro Alta Performance;und;10;224,91;2249,10;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (prototipagem dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;27;Resina 3D Standard;und;10;215,91;2159,10;serão usados para o alcance dos OE 1, 2 ,3, 4 e 6 (prototipagem dos robos de combate e segue linha);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;59;"Riscador Tipo Caneta 150mm
+- LITH-LT2027";und;1;15,90;15,90;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (contrução e acabamento estrutural)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;6;Roda Boba Robot Caster Esfera;und;10;21,49;214,90;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (movimentação dos robôs)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;46;Saca Polias 3 Garras Articuladas 4 Pol 100mm 5253055 Sparta;und;1;45,48;45,48;"serão usados para o alcance dos OE 1, 2 ,3, 4,
+5 e 6 (para remoção de polias)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;98;Tarugo Eixo Aço;und;30;45,27;1358,10;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( arma definitiva dos robôs de combate);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;17;Tarugo Polietileno PE UHMW Natural 120mmx1000m m;und;3;1556,00;4668,00;serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( componente para a arma dos robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;82;Tinta Aerossol Preto Fosco Uso Geral 350ML/250G;und;10;21,90;219,00;"serão usados para o alcance dos OE 1, 2 ,3, 4
+5, e 6 ( para personalização dos robôs e arena)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;45;Titan Espelho de inspeção telescópico 11185;und;1;21,77;21,77;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para contrução e acabamento dos robôs);Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;60;Transferidor de Grau tipo Meia Lua 180 Graus - KINGTOOLS- 600090;und;1;38,90;38,90;"Auxiliarão no alcance dos OE 1, 2 ,3, 4, 5 e 6 (
+contrução e acabamento dos robôs e arena)";Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;13;"Turnigy Nano-Tech Plus 500mAh 3S
+70C Lipo Pack w/XT30";und;8;129,00;1032,00;Servirão para o alcance;Sim;
+Orçamento detalhado de Custeio;Material de Consumo Nacional;88;Western NA- 225 Kit Anéis de Vedação, Preto, 225 unidades;conjunto;2;49,99;99,98;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( transmissão das armas dos robôs de combate);Sim;
+Orçamento detalhado de Custeio;Diárias;1;Diárias para a participação no Hacktudo - 3 diárias/7 participantes;un;21;320,00;6720,00;Alinhado com o OE1;Sim;
+Orçamento detalhado de Custeio;Diárias;4;Diárias para a participação no IronCup - 3 diárias/7 participantes;un;21;320,00;6720,00;Alinhado com o OE4;Sim;
+Orçamento detalhado de Custeio;Diárias;3;"Diárias para a participação no RMS
+Challenger - 3 diárias/7 participantes";un;21;320,00;6720,00;Alinhado com o OE3;Sim;
+Orçamento detalhado de Custeio;Diárias;2;Diárias para a participação no Robocore Experience - 6 diárias/7 participantes;un;42;320,00;13440,00;Alinhado com o OE2;Sim;
+Orçamento detalhado de Custeio;Passagens;5;Passagem rodoviária de ida para a IronCup  (Santa Rita do Sapucaí-MG);un;7;220,00;1540,00;Alinhado com o OE4;Sim;
+Orçamento detalhado de Custeio;Passagens;7;Passagem rodoviária de ida para a Robocore (São Paulo - SP);un;7;215,95;1511,65;Alinhado com o OE2;Sim;
+Orçamento detalhado de Custeio;Passagens;3;Passagem rodoviária de;un;7;240,99;1686,93;Alinhado ao OE3;Sim;
+Orçamento detalhado de Custeio;Passagens;;ida para a RSM Challenger (Mogi das Cruzes - SP);;;;;;;
+Orçamento detalhado de Custeio;Passagens;1;Passagem rodoviária de ida para o Hacktudo (Rio de Janeiro-RJ);un;7;115,59;809,13;Alinhado com o OE1;Sim;
+Orçamento detalhado de Custeio;Passagens;6;Passagem rodoviária de volta para a IronCup (Santa Rita do Sapucaí-MG);un;7;324,00;2268,00;Alinhado com o OE4;Sim;
+Orçamento detalhado de Custeio;Passagens;8;Passagem rodoviária de volta para a Robocore (São Paulo - SP);un;7;218,98;1532,86;Alinhado com o OE2;Sim;
+Orçamento detalhado de Custeio;Passagens;4;"Passagem rodoviária de volta para a RSM
+Challenger (Mogi das Cruzes - SP)";un;7;263,05;1841,35;Alinhado com o OE3;Sim;
+Orçamento detalhado de Custeio;Passagens;2;Passagem rodoviária de volta para o Hacktudo (Rio de Janeiro-RJ);un;7;115,00;805,00;Alinhado com o OE1;Sim;
+Orçamento detalhado de Custeio;Despesa de importação;;;;0;0,00;0,00;;;
+Orçamento detalhado de Custeio;Pagamento com inscrição em evento e seguro-viagem (excepcionalmente);5;"Ingresso Campuseiro Presencial Sem Camping - 4
+lote   350,00";un;7;350,00;2450,00;Alinhado ao OE2 - participação na Robocore;Sim;
+Orçamento detalhado de Custeio;Pagamento com inscrição em evento e seguro-viagem (excepcionalmente);4;Inscrição de competidores na Robocore;un;1;120,00;120,00;Alinhado ao OE2 - participação na Robocore2;Sim;
+Orçamento detalhado de Custeio;Pagamento com inscrição em evento e seguro-viagem (excepcionalmente);1;Inscrição de competidores na Robocore - Categoria Antweight;un;1;145,00;145,00;Alinhado ao OE2 - participação na Robocore;Sim;
+Orçamento detalhado de Custeio;Pagamento com inscrição em evento e seguro-viagem (excepcionalmente);2;Inscrição de competidores na Robocore - Fairyweight;un;1;120,00;120,00;Alinhado ao OE2 - participação na Robocore;Sim;
+Orçamento detalhado de Custeio;Pagamento com inscrição em evento e seguro-viagem (excepcionalmente);3;Inscrição de competidores na Robocore. Sumô LEGO - 1kg (Auto);un;1;120,00;120,00;Alinhado ao OE2 - participação na Robocore;Sim;
+Orçamento detalhado de Custeio;Aluguel ou atualização de software;;;;0;0,00;0,00;;;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;22;"Pen Drive 16GB USB 2.0
+Cruzer Blade SDCZ50
+SanDisk";und;5;25,90;129,50;Serão usados para o alcance dos OE 1, 2 ,3, 4, e 6 ( para armazenamento e envio de informações para;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;12;"Armário 2
+Portas Aço 4 Prateleiras";und;5;1499,00;7495,00;Serão utilizados para o alcance do objetivo geral (organização do ambiente de trabalho);Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;10;Armário de Parede com Prateleira para ferramentas;und;1;999,00;999,00;Alinhado ao objetivo geral (organização do espaço de trabalho);Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;11;Bancada Aberta de 2 Metros com Tampo de Madeira e 2 Gavetas;und;2;1389,90;2779,80;"Serão utilizadas para o alcance dos  OE 1, 2, 3, 4,
+5 e 6 ( ergonomia na estação de trabalho)";Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;14;Cadeira de escritório sem braços;und;10;573,75;5737,50;Serão utilizadas como auxílio aos estudos para o alcance do objetivo geral - ergonomia no ambiente;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;21;"Camara de Lavagem, Secagem e Cura CREALITY UW-
+01, Preto";und;1;1210,33;1210,33;será utilizada para secar os componentes impressos em resina;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;23;Case Mala Rigido HT023 Rodízio Espuma Modeladora 35x23x56cm;und;1;976,68;976,68;Será utilizada para o transporte seguro dos robôs para as competições;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;24;"Esmerilhadeira angular Bosch GWS 850 de 4 1/2"" 850W 127V
+com maleta";und;1;431,00;431,00;Será utilizada na confecção dos Chassis dos robôs;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;20;Estação De Solda E;und;2;510,00;1020,00;Será utilizada na soldagem de componentes;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;;"Retrabalho 8898d Ar
+Quente Soprador";;;;;eletronicos e estruturais;;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;28;"LIVRO:
+Primeiros Passos com Sensores: Perceba o Mundo Usando Eletrônica, Arduino e Raspberry Pi";und;1;34,05;34,05;Será utilizado como fonte de pesquisa e para compor a biblioteca técnica da equipe;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;29;LIVRO: Projetos Maker: Arduino Eletrônica Robótica Automação residencial;und;1;65,19;65,19;Será utilizado como fonte de pesquisa e para compor a biblioteca técnica da equipe;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;13;"Mesa de Escritório Miguel Preta 190 cmMesa de
+Escritório 190 cm";und;4;521,45;2085,80;Será utilizado como local de estudo para alcance do objetivo geral;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;26;MESA DIGITALIZADO RA ZINNIA MOMENTUM MT100, RESOLUCAO 5080LPI, NIVEIS DE PRESSAO 8192, PRETO, ZNC-ZNM;und;1;247,83;247,83;será utilizada na modelagem dos projetos;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;25;Moto Esmeril de Bancada 150W Bivolt Amarela Vonder - 68.92.150.000;und;1;221,80;221,80;Será utilizada na confecção dos Chassis dos robôs;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;15;Multímetro profissional Fluke;und;2;577,60;1155,20;Será usado para a medição de grandezas físicas tais como: Tensão, Corrente, etc;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;18;Notebook Gamer G15 Ryzen™ Edition;und;1;6145,00;6145,00;"Será usado nas competições e  para o alcance dos OE 1, 2 ,3, 4 e
+6";Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;4;"Serra de Corte Rápido Policorte Disco 355mm 3.800 RPM 220v -
+Nagano";und;1;854,10;854,10;Será utilizada na confecção dos Chassis dos robôs;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;6;"Serra Fita de Bancada 240x200mm 250w 220v -
+Nagano";und;1;598,92;598,92;Será utilizada na confecção dos Chassis;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;17;"Smart Tv 60"" Crystal UHD Samsung 4k 60AU8000
+Painel Dynamic Crystal Color Design Slim";und;1;3699,99;3699,99;Será utilizada para treinamentos, pitch e video conferências;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;24;Exaustor de fumaça para bancada;und;1;400,57;400,57;Será utilizada para a sucção da fumaça projetada por processos de soldagem;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;19;"Fonte de Alimentação DC MPS-3005B -
+Minipa";und;2;913,18;1826,36;Será usado para a alimentação de grandezas físicas tais como: Tensão, Corrente, etc;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;8;"GoPro HERO10
+Black";und;1;3704,05;3704,05;Alinhado ao objetivo geral - registro da equipe nas competições;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;7;Impressora 3D Halot One Plus;und;1;4040,10;4040,10;Será utilizada na confecção dos Chassis de resina;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;3;IMPRESSORA 3D PRO - GTMAX3D CORE A1V2 + SOFTWARE SIMPLIFY3D;und;1;8874,59;8874,59;Será utilizada na confecção dos Chassis;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;16;Kit 04 Câmeras de Segurança Hd 720p Hb Tech + Dvr Intelbras Multi Hd + Acessórios;Conjunto;1;987,23;987,23;Será utilizada para garantir a integridade dos equipamentos e controlar o acesso;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;5;"Kit Microrretífica Série 3000 Vel. Variável 90W com 2 Acoplamentos
+,30 Acessórios e Maleta - DREMEL-";und;2;653,22;1306,44;Será utilizada na confecção dos Chassis dos robôs;Sim;
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;9;LEGO® EDUCATION SPIKE PRIME - CONJUNTO EXPANSÃO;Conjunto;5;2119,99;10599,95;Alinhado ao alcance  dos OE 1, 2, 3, e 4. Kits usados na categoria sumô lego;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;1;LEGO® EDUCATION SPIKE PRIME - CONJUNTO PRINCIPAL;und;5;5899,00;29495,00;"Alinhado ao alcance  dos OE 1, 2, 3, e 4.  Kits
+usados na categoria sumô lego";Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;30;LIVRO: Arduino Para Robótica;und;1;119,88;119,88;Será utilizado como fonte de pesquisa e para compor a biblioteca técnica da equipe;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;31;LIVRO: Como Montar um Robô;und;1;22,92;22,92;Bibliografia introdutória para treinamento de novos membros;Sim;CANCELADO 
+Orçamento detalhado de Capital;Material Permanente e Equipamento Nacional;27;"LIVRO:
+Eletrônica Para Makers: Um Manual Prático Para o Novo Entusiasta de Eletrônica Capa";und;1;63,16;63,16;Será utilizado como fonte de pesquisa e para compor a biblioteca técnica da equipe;Sim;CANCELADO 
