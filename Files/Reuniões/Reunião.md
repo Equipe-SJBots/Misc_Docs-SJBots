@@ -124,14 +124,7 @@
 - Falar sobre a sequência de desenvolvimento do robô:
   - RioBotz
   - Minha percepção geral
-    - Definir a arma do robô (horizontal, vertical, etc.)
-    - Definir a categoria do robô (Fairy, Ant, etc.)
-    - Definição dos itens necessários para o robô
-      - Movimentação tangenciada?
-      - X motores brushless
-      - Y motores brushed
-      - Z ESCs
-    - Definição de quais são os itens exatos
+
 - Robôs
   - Termitinho
   - Sumô LEGO (2X)
