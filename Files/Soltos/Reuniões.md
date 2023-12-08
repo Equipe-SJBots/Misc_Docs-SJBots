@@ -179,3 +179,75 @@
   - Estanho
   - Fluxo de solta
   - Logo comprar os N20s, receptores e dinos. N20s: metade de 1000 rpm e metade de 500 rpm
+
+### 07/12/2023 - IA - ata
+
+#### Resumo da Reunião
+
+- Discutiu-se sobre a organização e distribuição de tarefas para a construção dos robôs para a próxima competição, com ênfase na definição de equipes e responsabilidades.
+- Foi mencionada a importância de um cronograma claro e prazos estabelecidos para as etapas de desenvolvimento dos robôs.
+- A necessidade de oficinas de soldagem foi destacada, e Elias se disponibilizou para conduzi-las antes de sua partida em 22 de dezembro.
+- A equipe discutiu sobre a compra de materiais e ferramentas adicionais, como uma segunda estação de solda e alicates específicos.
+- A utilização do Google Classroom como repositório centralizado de informações e progresso das equipes foi sugerida.
+- A questão da hospedagem e transporte para o próximo evento foi abordada, com a necessidade de planejamento antecipado e consideração especial para acomodação das participantes femininas.
+- A possibilidade de buscar patrocínios foi discutida, incluindo o uso do nome dos robôs e adesivos nas camisas como formas de reconhecimento.
+- A equipe considerou a ideia de um estatuto para formalizar funções e processos, inspirando-se no estatuto da equipe Gota Borges.
+- A reunião terminou com a definição de uma próxima reunião para acompanhar o progresso das tarefas e a confirmação de que as inscrições para o evento devem ser feitas até 9 de janeiro.
+
+#### Pauta para a Próxima Reunião
+
+1. Revisão do Progresso das Equipes
+   - Cada equipe deve apresentar o andamento das tarefas e progresso dos projetos.
+2. Cronograma de Desenvolvimento dos Robôs
+   - Definir e discutir o cronograma proposto para o desenvolvimento dos robôs.
+3. Orçamento e Lista de Compras
+   - Finalizar a lista de itens necessários para cada robô e preparar o orçamento para compras.
+4. Oficinas de Soldagem
+   - Organizar e agendar oficinas de soldagem presenciais para treinamento das equipes.
+5. Uso do Classroom
+   - Implementar o uso do Classroom para repositório de informações e documentação do progresso das equipes.
+6. Transporte e Estadia para Próxima Competição
+   - Discutir e planejar logística de transporte e estadia para a próxima competição.
+7. Responsabilidades e Planejamento da Viagem
+   - Definir responsabilidades individuais e coletivas para a viagem e competição.
+8. Patrocínio e Apoio Financeiro
+   - Explorar oportunidades de patrocínio e apoio financeiro para a equipe e projetos.
+9. Estatuto da Equipe
+   - Avaliar a necessidade e viabilidade de criar um estatuto para a equipe.
+10. Comunicação e Relatórios
+    - Estabelecer um sistema eficaz de comunicação e relatórios regulares sobre o progresso das equipes.
+11. Preparação para Inscrição no Evento
+    - Confirmar os membros da equipe que participarão e proceder com a inscrição no evento.
+12. Ferramentas e Materiais
+    - Verificar o que falta chegar do AliExpress e outras compras pendentes, e discutir sobre a aquisição de novas ferramentas e materiais, como uma segunda estação de solda.
+13. Diversos
+    - Abordar quaisquer outros assuntos relevantes ou pendências que surgirem até a data da reunião.
+
+#### Desafios e obstáculos mencionados
+
+1. Dificuldades com soldagem e necessidade de oficinas para treinamento.
+2. Preocupações com a segurança e aceitação dos responsáveis em relação à viagem das alunas para competições.
+3. Necessidade de definição de hospedagem para o próximo evento, já que não haverá acomodação no local.
+4. Planejamento e organização do transporte para o próximo evento.
+5. Definição de responsabilidades e logística para a competição com um mês de antecedência.
+6. Questões sobre como e onde usinar peças para os robôs.
+7. Compra de materiais e ferramentas adicionais necessárias, como uma segunda estação de solda e alicates especiais.
+8. Identificação e etiquetagem correta dos motores para evitar confusão de RPMs.
+9. Uso efetivo de ferramentas de gestão de tarefas e repositório de informações, como o Classroom e o GitHub.
+10. Decisões sobre a compra de controles adicionais para os robôs.
+11. Preocupações com a burocracia e eficácia de um possível estatuto para a equipe.
+12. Incerteza sobre o apoio da pró-reitoria de extensão devido à mudança de reitoria.
+
+#### Tabela da IA
+
+> Como líder de equipe, criei uma tabela de standup no formato markdown com base no modelo fornecido e preenchi com informações baseadas no resumo da reunião fornecido:
+
+| Nome     | O que fiz ontem?                                                                                                     | O que farei hoje?                                                                                                       | Estou bloqueado em algo?                                                                        |
+| -------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Krishna  | Discutiu sobre a modelagem 3D e desenho técnico.                                                                     | Continuará a modelagem do robô e ajudará outros membros com desenho técnico.                                            | Precisa de mais informações sobre a usinagem no Polo de Guarus.                                 |
+| Herick   | Discutiu sobre a usinagem e o transporte para a competição.                                                          | Verificará as possibilidades de usinagem e ajudará na organização do transporte.                                        | Precisa de informações claras sobre onde a usinagem será realizada.                             |
+| Elias    | Trouxe preocupações sobre a organização da equipe e a distribuição de tarefas.                                       | Vai criar um Classroom para documentar progressos e sugerir vídeos de treinamento.                                      | Preocupado com a segurança e permissão para as meninas viajarem para a competição.              |
+| Allysson | Participou da discussão sobre a transcrição da reunião e a organização das tarefas.                                  | Vai articular a oficina de soldagem e explorar opções de patrocínio e transporte.                                       | Preocupações com o espaço de armazenamento do G Suite e a transição da Reitoria.                |
+| Julia    | Levantou questões sobre o esquema elétrico e a necessidade de prazos e cronogramas.                                  | Vai trabalhar na definição do circuito elétrico do robô e na organização interna da equipe.                             | Precisa de um cronograma claro e prazos para orientar as tarefas da equipe.                     |
+| Jean     | Comentou sobre a necessidade de uma nova estação de solda e ferramentas adicionais.                                  | Avaliará as necessidades de ferramentas e materiais para a equipe.                                                      | Preocupado com a compra correta de materiais e ferramentas.                                     |
+| João     | Liderou a reunião, discutiu sobre a sequência de ações para o desenvolvimento dos robôs e a organização das tarefas. | Definirá cronogramas e prazos para as equipes e entrará em contato com Vitor sobre as ferramentas de gestão de tarefas. | Necessita de confirmação das ferramentas e métodos a serem utilizados para a gestão de tarefas. |
