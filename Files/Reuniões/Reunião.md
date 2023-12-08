@@ -96,7 +96,7 @@
       - Empresas - Allysson
   - Até 9 de janeiro: ver quais participantes vão
     - Distribuir os termos para assinatura dos responsáveis
-      - IFF
+      - [IFF](<../Burocracia/Termo de Responsabilidade de Visitas Técnicas.docx>)
       - [Robocore](https://events.robocore.net/GeraPDF/autorizacao_menor.php?event_id=50)
   - Estadia - após a inscrição
     - Precisa estar perto
