@@ -251,3 +251,112 @@
 | Julia    | Levantou questões sobre o esquema elétrico e a necessidade de prazos e cronogramas.                                  | Vai trabalhar na definição do circuito elétrico do robô e na organização interna da equipe.                             | Precisa de um cronograma claro e prazos para orientar as tarefas da equipe.                     |
 | Jean     | Comentou sobre a necessidade de uma nova estação de solda e ferramentas adicionais.                                  | Avaliará as necessidades de ferramentas e materiais para a equipe.                                                      | Preocupado com a compra correta de materiais e ferramentas.                                     |
 | João     | Liderou a reunião, discutiu sobre a sequência de ações para o desenvolvimento dos robôs e a organização das tarefas. | Definirá cronogramas e prazos para as equipes e entrará em contato com Vitor sobre as ferramentas de gestão de tarefas. | Necessita de confirmação das ferramentas e métodos a serem utilizados para a gestão de tarefas. |
+
+## 14/12/2023
+
+1. *Definir a categoria do robô*
+2. *Definir a arma do robô*
+3. *Idelização do conceito*
+4. *Definição dos itens necessários para o robô*
+5. *Confecção do diagrama elétrico* & *planejamento de disposição*
+6. *Balanceamento elétrico*
+7. *Definição dos modelos dos itens*
+8. *Orçamento* & *Modelagem*
+9. *Compras* & *Confecção da carcaça*
+10. *Soldas* & *Montagem*
+11. *Testes* & *Ajustes*
+
+- Ler as regras das categorias
+
+- Azeitono
+  - Etapas
+    1. Categoria: Ant
+    2. Arma:
+       1. Vertical Spinner
+          1. centro de alumínio
+             1. Tubo de alumínio
+          2. lâminas de Aço 4340.
+       2. Rampa: TPU
+    3. Conceito
+       1. Arma no centro com rampa, rodas laterais protegidas por parte da carcaça
+    4. Robô todo de TPU: por tempo e mais facilidade pra imprimir
+    5. Itens:
+       1. ESC 4 em 1
+       2. 3 brushless
+       3. Ainda dúvida sobre a conexão do motor com a arma
+       4. 2X Bateria
+       5. 1 fs2a 3ch
+       6. Chave geral blitzar
+    6. Balanceamento elétrico em progresso
+    7. Elétrica
+       1. ESC 4 em 1
+       2. Baterias do LAB
+       3. Chave geral blitzar não encontraram
+    8. Desenho geral
+  - Afinidade
+    - Kaylane e Julia: modelagem e materiais
+    - Júlia e Yasmim: Elétrica
+      - Fizeram boa parte da planta elétrica, mas ainda não tá tudo pronto
+      - Só desliga o LED
+      - Calcular se a bateria vai atender às demandas: Júlia
+    - Yasmim: Mandou a lista dos materiais para Luciana
+    - Luciana: Orçamento/Lista de compras
+    - Orçamento-> passar a ser de mais gente
+- Sumô LEGO
+  - Sem muito avanço, só o estudo sobre a caixa de redução
+    - Por causa da semana de provas
+  - Pretendem fazer protótipos
+  - Dois sensores ultrassônicos: um pra oponente longe e outro pra oponente perto
+- Raia
+  - Ocupado por causa da faculdade e entrando de férias pode dedicar 100% de tempo
+  - 22 de dezembro entra de férias
+  - 27 libera, até 27 de janeiro
+- Caramuru
+  - Atribuições
+    - Krishna e Murilo
+    - Afonso: mecânica
+    - Marcelo: dimensionamento da elétrica e lista de compras
+      - Marcelo tá meio solto/sozinho
+  1. Categoria: Ant
+  2. Arma: Eggbeater
+  3. Idealização do conceito: SombraAnt
+     1. Carcaça de TPU
+     2. Alumínio para revestir algo
+  4. Definição dos itens
+     1. 2 polias
+        1. 3 com quantidades diferentes de dentes
+     2. 1 Correia
+     3. 1 Epoxy
+     4. 1 Rolamento
+     5. 2 rodas
+     6. 1 Arma Eggbeater
+     7. 3 Brushless
+     8. 1 Regulador de tensão
+     9. 1 Bateria
+     10. 1 Receptor
+     11. 1 Cola
+  5. Confecção do diagrama elétrico
+     1. Começou a ser feito e está quase pronto
+  6. Planejamento de disposição
+     1. Começou o no desenho técnioco e depois foi pra modelagem
+  7. Balanceamento elétrico
+     1. Foi calculado
+  8. Definição dos modelos
+     1. Pesagens
+  9. Orçamento
+      1. Encaminhado mas ainda precisa de ajustes
+  10. Modelagem
+- Termitinho
+  - Vertical Spinner
+  - Entendimento do esquema elétrico
+  - O que causou problema foi algo que desconectou
+  - Pretende refazer a elétrica
+  - Vai analisar a fixação da arma com Jean
+- Elias
+  - analisar o uso de um botão on-off como chave geral
+  - Pesquisa sobre EPIs para a parte de solda das baterias
+  - Lâmpada incandecente como medida de segunça
+  - Conversar com o Elias no privado para falar sobre o entendimento elétrico
+- Compras gerais
+  - Adicionar a chave geral
+  - Parafusos?
