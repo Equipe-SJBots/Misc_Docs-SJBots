@@ -1,0 +1,16 @@
+[Model]
+Name=ednã
+Weight=1500
+Type=Treinador
+[Airfoil]
+Airfoil=
+Polar=
+Span=1000
+Chord=22
+[Motor]
+Brushless=1
+Brushed=0
+Qtd=1
+Prop=APC_SF_9047
+Rot=8795
+Thrust=868

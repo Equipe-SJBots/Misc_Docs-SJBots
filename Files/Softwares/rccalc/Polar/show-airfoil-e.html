@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>NASG Airfoil Database</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
+<tr valign=top>
+  <td width="25%" bgcolor="#5522ee" height="100%" align="left" valign="top">
+
+  <font size="4" color="#EEEE00">Airfoil Database</font><p>
+
+  <font size="3" color="#FFFFFF">Search</font><p>
+  <ul>
+    <li>
+	<a href="search-airfoil-e.phtml"><font size="2"
+	color="#FFFFFF">Airfoil</font></a><br>
+    <li>
+	<a href="search-polar-e.phtml"><font size="2"
+	color="#FFFFFF">Polar Curve</font></a>
+  </ul>
+  <p>
+
+  <font size="3" color="#FFFFFF">List</font><p>
+  <ul>
+    <li>
+	<a href="list-airfoil-e.phtml"><font size="2"
+	color="#FFFFFF">Airfoil</font></a><br>
+    <li>
+	<a href="list-polar-e.phtml"><font size="2"
+	color="#FFFFFF">Polar Curve</font></a>
+  </ul>
+  <p>
+
+  <font size="3" color="#FFFFFF">Update</font><p>
+  <ul>
+    <li>
+	<a href="search-airfoil-e.phtml?func=update"><font size="2"
+	color="#FFFFFF">Airfoil</font></a><br>
+    <li>
+	<a href="search-polar-e.phtml?func=update"><font size="2"
+	color="#FFFFFF">Polar Curve</font></a>
+  </ul>
+  <p>
+
+  <font size="3" color="#FFFFFF">Insert</font><p>
+  <ul>
+    <li>
+	<a href="insert-airfoil-e.phtml"><font size="2"
+	color="#FFFFFF">Airfoil</font></a><br>
+    <li>
+	<a href="search-airfoil-e.phtml?func=pinsert"><font size="2"
+	color="#FFFFFF">Polar Curve</font></a><br>
+    <li>
+	<a href="insert-category-e.phtml"><font size="2"
+	color="#FFFFFF">Airfoil Category</font></a><br>
+    <li>
+	<a href="insert-group-e.phtml"><font size="2"
+	color="#FFFFFF">Development Group</font></a>
+  </ul>
+
+  <a href="help-e.phtml"><font size="3" color="#DD4444">Help</font></a><p>
+  
+  <p>
+
+
+<p align=right><a href="/index-e.html"><font size="4"
+color="#EEEE00">NASG Home</font></a>
+  </td>
+  <td width="75%">
+
+<h1>Show Airfoil(s)</h1>
+<form action="show-polar-e.phtml" method="POST">
+<center><img alt="airfoil" src="afshow.phtml?n=1&file1=a18sm.dat&name1=A18SM"><p></center>
+<h2>Archer A18 F1C(smoothed)(A18SM,<a href="contour/a18sm.dat">Contour Data</a>)</h2>
+<table border=0 cellspacing=0 cellpadding=5 width="100%">
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Thickness</td><td>0.0728</td>
+<td bgcolor="#EEEEEE">Leading edge radius</td><td>0.0061</td>
+</tr>
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Camber</td><td>0.0384</td>
+<td bgcolor="#EEEEEE">Trailing edge angle[deg]</td><td>9.8895</td>
+</tr>
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Developer</td><td colspan=3></td>
+</tr>
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Development Group</td><td colspan=3></td>
+</tr>
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Registrant</td><td colspan=3>Hiroshi Takeuchi</td>
+</tr>
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Category</td><td colspan=3> [Low Speed]  [Modelplane] </td>
+</tr>
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Comment</td><td colspan=3>Archer A18 F1C free flight airfoil (smoothed)</td>
+</tr>
+<tr valign=middle>
+<td bgcolor="#EEEEEE">Polar Curve(s)</td><td colspan=3>
+<input type="checkbox" name="pol_id[]" value="408"><a href="show-polar-e.phtml?id=408">Re=100700,UIUC(Measured)</a><br>
+<input type="checkbox" name="pol_id[]" value="750"><a href="show-polar-e.phtml?id=750">Re=103018,zigzag,UIU(Measured)</a><br>
+<input type="checkbox" name="pol_id[]" value="751"><a href="show-polar-e.phtml?id=751">Re=199845,zigzag,UIU(Measured)</a><br>
+<input type="checkbox" name="pol_id[]" value="409"><a href="show-polar-e.phtml?id=409">Re=203000,UIUC(Measured)</a><br>
+<input type="checkbox" name="pol_id[]" value="752"><a href="show-polar-e.phtml?id=752">Re=300000,zigzag,UIU(Measured)</a><br>
+<input type="checkbox" name="pol_id[]" value="410"><a href="show-polar-e.phtml?id=410">Re=302600,UIUC(Measured)</a><br>
+<input type="checkbox" name="pol_id[]" value="411"><a href="show-polar-e.phtml?id=411">Re=40000,UIUC(Measured)</a><br>
+<input type="checkbox" name="pol_id[]" value="412"><a href="show-polar-e.phtml?id=412">Re=60700,UIUC(Measured)</a><br>
+</td>
+</tr>
+</table>
+<div align=right>
+<input type="submit" value="Show Polar">
+</div>
+</form>
+</td>
+</tr>
+</table>
+<hr>
+<p align=right>
+Maintainer:<a href="mailto:afdb@nasg.com"><i>afdb@nasg.com</i></a>
+</p>
+</body> </html>
+
+
+

@@ -1,0 +1,16 @@
+[Model]
+Name=ednã
+Weight=755
+Type=Treinador
+[Airfoil]
+Airfoil=clarky
+Polar=clarky--61300-uiuc
+Span=110
+Chord=18
+[Motor]
+Brushless=1
+Brushed=0
+Qtd=1
+Prop=APC_TE_9060
+Rot=8574
+Thrust=800

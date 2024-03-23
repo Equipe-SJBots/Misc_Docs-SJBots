@@ -1,0 +1,16 @@
+[Model]
+Name=MartinMars
+Weight=2400
+Type=Escala
+[Airfoil]
+Airfoil=clarky
+Polar=clarky--203800-uiuc
+Span=310
+Chord=33
+[Motor]
+Brushless=0
+Brushed=1
+Qtd=4
+Prop=GWS_HD_1060
+Rot=6108
+Thrust=1872
